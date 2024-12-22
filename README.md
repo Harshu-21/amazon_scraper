@@ -43,8 +43,4 @@ o	Log in to Amazon.
 o	Scrape product details from specified categories.
 o	Save the output as amazon_best_sellers.csv.
 4.	Locate the CSV file in the script's directory.
-________________________________________
-4. Notes
-1.	Error Handling: The script skips errors like CAPTCHAs or unresponsive pages and continues execution.
-2.	Compliance: Use responsibly and adhere to Amazon’s terms of service.
-3.	Future Updates: Update CSS selectors in the script if Amazon changes its website structure.
+
